@@ -12,6 +12,12 @@ if ($mysqli) {
     echo "실패";
 }
 
-echo "수정 하였음";
+
 echo "마스터에서 수정";
+
+echo "test 브랜치에서 수정";
+echo "test 브랜치에서 수정2";
+
+echo "마스터에서 수정2";
+
 ?>

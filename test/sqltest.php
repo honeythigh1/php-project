@@ -21,5 +21,6 @@ echo "test 브랜치에서 수정2";
 echo "마스터에서 수정2";
 
 echo "test 브랜치에서 수정3";
+echo "git test";
 
 ?>

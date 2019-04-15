@@ -11,4 +11,6 @@ if ($mysqli) {
 }else{
     echo "실패";
 }
+
+echo "수정 하였음";
 ?>
